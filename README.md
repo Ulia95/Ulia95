@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Привет меня зовут Юлия
+
+[Вот что я умею](https://github.com/Ulia95/Diploma.git)
